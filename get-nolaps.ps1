@@ -4,7 +4,7 @@
 ###
 ### Get all enabled computer objects from AD that have contacted the AD in a specified amount of days and do not have an encrypted LAPS password set.
 
-# set number of days that have to have passed since the last time the systems contacted AD
+# set timespan in days in which the systems need to have contacted AD
 $timespan = 180
 
 $date = (date).AddDays(-$timespan)
