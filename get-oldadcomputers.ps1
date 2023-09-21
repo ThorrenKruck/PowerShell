@@ -1,6 +1,8 @@
-### get-oldadcomputers
+### get-oldadcomputers.ps1
 ### Powered by Krucktech
 ### V1.0 - 21.09.2023
+### 
+### Get all AD computer objects that have not contacted AD in a specified amount of days.
 
 # set number of days that have to have passed since the last time the systems contacted AD
 $timeframe = 180
