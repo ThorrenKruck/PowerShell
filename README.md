@@ -1,2 +1,2 @@
 # PowerShell
-Some PowerShell scripts i wrote over time. Mainly sysadmin stuff.
+Some PowerShell scripts I wrote over time. Mainly sysadmin stuff.
