@@ -1,4 +1,4 @@
-### iping.ps1
+### IPing.ps1
 ### Powered by Krucktech
 ### V1.0 - 21.09.2023
 ###
