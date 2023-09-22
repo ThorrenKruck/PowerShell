@@ -1,4 +1,4 @@
-### get-lastlogontimestampcomputer
+### Get-LastLogonTimestampComputer.ps1
 ### Powered by Krucktech
 ### V1.0 - 22.09.2023
 ###
