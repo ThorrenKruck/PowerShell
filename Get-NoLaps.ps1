@@ -1,6 +1,6 @@
 ### get-nolaps
 ### Powered by Krucktech
-### V1.3 - 10.10.2023
+### V1.3 - 13.10.2023
 ###
 ### Get all enabled computer objects with compatible OS, except DCs, from AD that do not have an encrypted LAPS password set.
 
