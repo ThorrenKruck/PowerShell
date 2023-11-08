@@ -1,10 +1,11 @@
 ### HPing.ps1
 ### Powered by Krucktech
-### V1.0 - 21.09.2023
+### V1.1 - 09.11.2023
 ###
 ### Advanced ping by hostname. If the target was initially reachable, wait until ping fails and succeeds again. If the target was initially not reachable, wait until ping succeeds. Powershell7-proof. Intended to be called in a shell with the target as the argument.
 
 param ([string] $target)
+if($target -eq ""){Write-Host "No target specified" -Foregroundcolor Red; exit}
 $repeat = $true
 $answer = "y"
 
